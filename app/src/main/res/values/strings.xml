@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmentExample1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="question_article">Like The Article?</string>
+    <string name="yes">Like</string>
+    <string name="no">Thanks</string>
+    <string name="yes_message">Article: Like</string>
+    <string name="no_message">Article: Thanks</string>
+</resources>
