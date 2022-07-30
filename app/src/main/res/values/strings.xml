@@ -7,4 +7,5 @@
     <string name="no">Thanks</string>
     <string name="yes_message">Article: Like</string>
     <string name="no_message">Article: Thanks</string>
+    <string name="myrating">"My Rating is "</string>
 </resources>
