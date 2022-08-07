@@ -8,4 +8,5 @@
     <string name="yes_message">Article: Like</string>
     <string name="no_message">Article: Thanks</string>
     <string name="myrating">"My Rating is "</string>
+    <string name="exception_message">Error</string>
 </resources>
